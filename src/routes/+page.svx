@@ -1,0 +1,21 @@
+
+---
+title: Alternative For Hack Club
+---
+<script> 
+    import favicon from '$lib/assets/afhc.svg';
+    import Topbar from './topbar.svelte';
+</script>
+
+
+<Topbar />
+
+## h2
+### h3
+
+- list test
+- list test
+
+
+
+#### *⚠️: The Democratic Republic of Hack Club and other associated communities and entities are not associated with The Hack Foundation (d.b.a. Hack Club), the 501(c)(3) non-profit organization. This is an unofficial community role-play group and only exists for the purpose of entertainment. Similarly, the AfHC (Alternative for Hack Club) is not associated with the AfD ( Alternative für Deutschland ), and is just inspired by the name. <br>The Alternative for Hack Club is run by Addy Tennies. My personal political beliefs are NOT being expressed through this party, in fact, I find a lot of what is being done to be abhorrent, and just wanted to have fun and experiment with a new set of beliefs being shown in Parliament, which has had stagnant political positioning. I do not endorse the AfD or similar movements.*
