@@ -3,7 +3,7 @@ import tailwindcss from '@tailwindcss/vite';
 import adapter from '@sveltejs/adapter-auto';
 import { sveltekit } from '@sveltejs/kit/vite';
 import { defineConfig } from 'vite';
-
+import slug from 'rehype-slug';
 export default defineConfig({
 	plugins: [
 		tailwindcss(),
@@ -21,7 +21,8 @@ export default defineConfig({
 			extensions: ['.svelte', '.svx', '.md'],
 			preprocess: [
 				mdsvex({
-					extensions: ['.svx', '.md']
+					extensions: ['.svx', '.md'],
+					rehypePlugins: [slug]
 				}),
 				{
 					name: 'mdsvex-script-module-fix',
