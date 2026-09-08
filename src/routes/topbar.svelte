@@ -44,8 +44,8 @@
 	<div class="flex grow" > </div>
 	<nav class="flex gap-6 text-sm font-medium text-[#8492a6]">
 	<a href="#members" class="text-gray-900 text-xl font-bold hover:text-[#8492a6]">Members</a>
-	<a href="#" class="text-gray-900 text-xl font-bold hover:text-[#8492a6]">Our Values</a>
-	<a href="#" class="text-gray-900 text-xl font-bold hover:text-[#8492a6]">History</a>
+	<a href="#our-values" class="text-gray-900 text-xl font-bold hover:text-[#8492a6]">Our Values</a>
+	<a href="#history" class="text-gray-900 text-xl font-bold hover:text-[#8492a6]">History</a>
 	</nav>
 </header>
 

@@ -4,6 +4,7 @@ import adapter from '@sveltejs/adapter-auto';
 import { sveltekit } from '@sveltejs/kit/vite';
 import { defineConfig } from 'vite';
 import slug from 'rehype-slug';
+import rehypeExternalLinks from 'rehype-external-links';
 export default defineConfig({
 	plugins: [
 		tailwindcss(),
@@ -22,7 +23,7 @@ export default defineConfig({
 			preprocess: [
 				mdsvex({
 					extensions: ['.svx', '.md'],
-					rehypePlugins: [slug]
+					rehypePlugins: [slug, [rehypeExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] }]]
 				}),
 				{
 					name: 'mdsvex-script-module-fix',

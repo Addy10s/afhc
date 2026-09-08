@@ -22,3 +22,11 @@ h2{
 a{
     text-decoration: none;
 }
+
+a:link{
+    color: oklch(48.8% 0.243 264.376);
+}
+
+a:visited{
+    color: oklch(45.7% 0.24 277.023);
+}

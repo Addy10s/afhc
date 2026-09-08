@@ -3,12 +3,11 @@
 </script>
 
 {#each data.memberArray as member (member.id)}
-<div class="flex">
-	
-	<img src={member.imageUrl} class="rounded-2xl max-w-25" alt={member.realName + "'s Profile Picture"}/>
-    <h2 class="font-bold">{member.realName}({member.pronouns})</h2>
-
-</div>
+	<a class="flex" href="https://hackclub.enterprise.slack.com/team/{member.userId}" target="_blank" rel="noreferrer">
+	<img src={member.imageUrl} class="rounded-2xl max-w-15 max-h-15" alt={member.realName + "'s Profile Picture"}/>
+    <h2  class="p-0! px-5! text-xl! font-bold">{member.realName}({member.pronouns})
+    </h2>
+</a>
 {/each}
 
 <!-- {#each data?.entries ?? [] as entry, index} 

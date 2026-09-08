@@ -16,5 +16,17 @@ title: Alternative For Hack Club
 
 <Members data={data} />
 
+## Our Values 
+Other parties only wish to let our country fall, claimed by our neighbors. We reject this depressing future. We support the creation of a federal military, to defend our country, if need be, and set up a system of conscription, as to create confidence in the strength of our country.
 
-#### *⚠️: The Democratic Republic of Hack Club and other associated communities and entities are not associated with The Hack Foundation (d.b.a. Hack Club), the 501(c)(3) non-profit organization. This is an unofficial community role-play group and only exists for the purpose of entertainment. Similarly, the AfHC (Alternative for Hack Club) is not associated with the AfD ( Alternative für Deutschland ), and is just inspired by the name. <br>The Alternative for Hack Club is run by Addy Tennies. My personal political beliefs are NOT being expressed through this party, in fact, I find a lot of what is being done to be abhorrent, and just wanted to have fun and experiment with a new set of beliefs being shown in Parliament, which has had stagnant political positioning. I do not endorse the AfD or similar movements.*
+We also seek to revitalize this stagnant economy, and restore full sovereignty to our beautiful country, not lettiing foreign countries control us, nor do we want a central government to speak for us. We believe that individual regions should have governmental power, with a strongly limited central government.
+
+
+## History
+
+Although the Alternative for Hack Club is a new party, and has not yet been able to get in to elections, I (Addy Tennies, Founder of AfHC) am a former [AVCAP (Anti Vibe Coding and PHP Party)](https://avcap.xyz) member. Despite the party being socialist, which I have now woken up to the dangers of the ideology to the economy and the citizens under it, I was still on the side of the people. I pushed for free markets, allowing citizens to take risks with their money. Similarly, I also pushed for a bill to reduce the power of the central government, removing a federal ban on Marijuana, although I was ultimately unsuccessful. The extremist left seeks for complete control of all sectors, without any power for regulation by smaller regions of the country. We will not stand for this, all our power shall stand up against this tyranny.
+
+
+
+## ⚠️⚠️ **Disclaimer** ⚠️⚠️
+#### * [The Democratic Republic of Hack Club](https://hcgov.uk) and other associated communities and entities are not associated with [The Hack Foundation (d.b.a. Hack Club)](https://hackclub.com), the 501(c)(3) non-profit organization. This is an unofficial community role-play group and only exists for the purpose of entertainment. This is not a real political party, not  Similarly, the AfHC (Alternative for Hack Club) is not associated with the [AfD ( Alternative für Deutschland)](https://afd.de), and is just inspired by the name. It is also not associated with [Americans For Fair Healthcare](https://americansforfairhealthcare.org), nor the [Adult Family Home Council](https://adultfamilyhomecouncil.org), nor the [Alliance for Healthy Cities](https://alliance-healthycities.com) <br> The Alternative for Hack Club is lead by [Addy Tennies](https://Addy10s.xyz). The members' personal political beliefs are NOT being expressed through this party, in fact, we find a lot of what is being done to be abhorrent, and just wanted to have fun and experiment with a new set of beliefs being shown in Parliament, which has had stagnant political positioning. we do not endorse the [Alternative für Deutschland](https://afd.de) or similar movements/parties in any way.*
